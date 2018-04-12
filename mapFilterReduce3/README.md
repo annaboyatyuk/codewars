@@ -20,7 +20,7 @@ double(someNumbers); // should return [2,4,20,114]
 __________________________________________
 
 
-
+list filtering
 
 In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
 
@@ -35,3 +35,6 @@ _________________________________________________
 
 
 
+calculate average
+
+Write function avg which calculates average of numbers in given list.
